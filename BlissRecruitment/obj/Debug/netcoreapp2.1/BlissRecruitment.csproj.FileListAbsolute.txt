@@ -1,0 +1,14 @@
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\obj\Debug\netcoreapp2.1\BlissRecruitment.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\obj\Debug\netcoreapp2.1\BlissRecruitment.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\obj\Debug\netcoreapp2.1\BlissRecruitment.RazorAssemblyInfo.cache
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\obj\Debug\netcoreapp2.1\BlissRecruitment.RazorAssemblyInfo.cs
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\obj\Debug\netcoreapp2.1\BlissRecruitment.AssemblyInfoInputs.cache
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\obj\Debug\netcoreapp2.1\BlissRecruitment.AssemblyInfo.cs
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\bin\Debug\netcoreapp2.1\BlissRecruitment.deps.json
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\bin\Debug\netcoreapp2.1\BlissRecruitment.runtimeconfig.json
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\bin\Debug\netcoreapp2.1\BlissRecruitment.runtimeconfig.dev.json
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\bin\Debug\netcoreapp2.1\BlissRecruitment.dll
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\bin\Debug\netcoreapp2.1\BlissRecruitment.pdb
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\obj\Debug\netcoreapp2.1\BlissRecruitment.RazorTargetAssemblyInfo.cache
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\obj\Debug\netcoreapp2.1\BlissRecruitment.dll
+C:\Users\Rafael\source\repos\BlissRecruitment\BlissRecruitment\obj\Debug\netcoreapp2.1\BlissRecruitment.pdb

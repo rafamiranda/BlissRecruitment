@@ -6,7 +6,7 @@ DB Set up
 	1 - Create a DB named BlissRecruitmentDatabase
 	
 	2 - Run the following script (Creates Question and Choices tables):
-		DB_Tables_Drop_Create.sql
+		./Scripts/DB_Tables_Drop_Create.sql
 
 WebApi Configurations
 

@@ -1,16 +1,14 @@
+
+BlissRecruitment Configuration Document
+
 DB Set up
 
-	Run script in the following order:
+	1 - Create a DB named BlissRecruitmentDatabase
+	
+	2 - Run the following script (Creates Question and Choices tables):
+		DB_Tables_Drop_Create.sql
 
-	db01.sql
-		- Configure Physical file path for db data and log data.
-		Ex.:
-		[DbDataFilePath] = "C:\db"
-		[LogDataFilePath] = "C:\log"
-
-
-	db02.sql
-
+WebApi Configurations
 
 Database Configuration:
 	Configure connection string section in ConnectionStrings at appsettings.json:
